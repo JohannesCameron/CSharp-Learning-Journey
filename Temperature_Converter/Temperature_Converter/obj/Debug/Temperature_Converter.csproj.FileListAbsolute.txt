@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\bin\Debug\Temperature_Converter.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\bin\Debug\Temperature_Converter.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\bin\Debug\Temperature_Converter.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Temperature_Converter\Temperature_Converter\obj\Debug\Temperature_Converter.pdb
