@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Calculator\Calculator\obj\Debug\Calculator.pdb
