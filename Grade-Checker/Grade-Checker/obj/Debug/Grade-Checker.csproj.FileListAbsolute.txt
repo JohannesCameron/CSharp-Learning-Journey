@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\bin\Debug\Grade-Checker.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\bin\Debug\Grade-Checker.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\bin\Debug\Grade-Checker.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\obj\Debug\Grade-Checker.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\obj\Debug\Grade-Checker.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\obj\Debug\Grade-Checker.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Grade-Checker\Grade-Checker\obj\Debug\Grade-Checker.pdb
