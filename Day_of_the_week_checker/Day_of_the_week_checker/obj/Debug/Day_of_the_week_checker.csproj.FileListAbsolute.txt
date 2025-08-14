@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\bin\Debug\Day_of_the_week_checker.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\bin\Debug\Day_of_the_week_checker.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\bin\Debug\Day_of_the_week_checker.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\obj\Debug\Day_of_the_week_checker.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\obj\Debug\Day_of_the_week_checker.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\obj\Debug\Day_of_the_week_checker.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Day_of_the_week_checker\Day_of_the_week_checker\obj\Debug\Day_of_the_week_checker.pdb
