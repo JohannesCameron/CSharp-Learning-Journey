@@ -1,0 +1,8 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\bin\Debug\Favourite_movie_list.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\bin\Debug\Favourite_movie_list.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\bin\Debug\Favourite_movie_list.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\obj\Debug\Favourite_movie_list.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\obj\Debug\Favourite_movie_list.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\obj\Debug\Favourite_movie_list.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\obj\Debug\Favourite_movie_list.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Favourite_movie_list\Favourite_movie_list\obj\Debug\Favourite_movie_list.exe.config
