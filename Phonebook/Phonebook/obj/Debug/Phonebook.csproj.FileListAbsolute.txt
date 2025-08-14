@@ -1,0 +1,8 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Phonebook\Phonebook\obj\Debug\Phonebook.exe.config
