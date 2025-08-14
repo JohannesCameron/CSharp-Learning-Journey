@@ -1,0 +1,8 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\bin\Debug\Multiplication_table_generator.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\bin\Debug\Multiplication_table_generator.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\bin\Debug\Multiplication_table_generator.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\obj\Debug\Multiplication_table_generator.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\obj\Debug\Multiplication_table_generator.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\obj\Debug\Multiplication_table_generator.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\obj\Debug\Multiplication_table_generator.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Multiplication_table_generator\Multiplication_table_generator\obj\Debug\Multiplication_table_generator.exe.config
