@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\bin\Debug\To_do_list.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\bin\Debug\To_do_list.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\bin\Debug\To_do_list.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\obj\Debug\To_do_list.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\obj\Debug\To_do_list.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\obj\Debug\To_do_list.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\To_do_list\To_do_list\obj\Debug\To_do_list.pdb
