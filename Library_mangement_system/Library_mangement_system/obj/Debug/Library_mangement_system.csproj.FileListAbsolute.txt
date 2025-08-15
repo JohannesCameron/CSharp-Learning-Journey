@@ -1,0 +1,8 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\bin\Debug\Library_mangement_system.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\bin\Debug\Library_mangement_system.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\bin\Debug\Library_mangement_system.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\obj\Debug\Library_mangement_system.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\obj\Debug\Library_mangement_system.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\obj\Debug\Library_mangement_system.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\obj\Debug\Library_mangement_system.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Library_mangement_system\Library_mangement_system\obj\Debug\Library_mangement_system.exe.config
