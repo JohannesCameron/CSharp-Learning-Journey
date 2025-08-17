@@ -1,0 +1,8 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\bin\Debug\Student_profile_app.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\bin\Debug\Student_profile_app.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\bin\Debug\Student_profile_app.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\obj\Debug\Student_profile_app.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\obj\Debug\Student_profile_app.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\obj\Debug\Student_profile_app.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\obj\Debug\Student_profile_app.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Student_profile_app\Student_profile_app\obj\Debug\Student_profile_app.exe.config
