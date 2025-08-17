@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\bin\Debug\Bank_ACcount_Simulator.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\bin\Debug\Bank_ACcount_Simulator.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\bin\Debug\Bank_ACcount_Simulator.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\obj\Debug\Bank_ACcount_Simulator.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\obj\Debug\Bank_ACcount_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\obj\Debug\Bank_ACcount_Simulator.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 1\Bank_ACcount_Simulator\Bank_ACcount_Simulator\obj\Debug\Bank_ACcount_Simulator.pdb
