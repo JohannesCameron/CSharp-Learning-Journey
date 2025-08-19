@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\bin\Debug\Library_Book_Tracker.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\bin\Debug\Library_Book_Tracker.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\bin\Debug\Library_Book_Tracker.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\obj\Debug\Library_Book_Tracker.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\obj\Debug\Library_Book_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\obj\Debug\Library_Book_Tracker.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Library_Book_Tracker\Library_Book_Tracker\obj\Debug\Library_Book_Tracker.pdb
