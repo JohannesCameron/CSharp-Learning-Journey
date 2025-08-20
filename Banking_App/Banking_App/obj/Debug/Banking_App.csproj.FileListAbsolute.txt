@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\obj\Debug\Banking_App.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\obj\Debug\Banking_App.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\bin\Debug\Banking_App.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\bin\Debug\Banking_App.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\bin\Debug\Banking_App.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\obj\Debug\Banking_App.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Banking_App\Banking_App\obj\Debug\Banking_App.pdb
