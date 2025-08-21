@@ -1,0 +1,7 @@
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\obj\Debug\Shape.csproj.AssemblyReference.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\crjoh\OneDrive\Documents\Csharp\Week 2\Shape\Shape\obj\Debug\Shape.pdb
